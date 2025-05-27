@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Screenmatch.iml" filepath="$PROJECT_DIR$/Screenmatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sistema de compras/Sistemas de compras/Sistemas de compras.iml" filepath="$PROJECT_DIR$/../Sistema de compras/Sistemas de compras/Sistemas de compras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/src/Teste/Teste.iml" filepath="$PROJECT_DIR$/../untitled/src/Teste/Teste.iml" />
     </modules>
   </component>
 </project>
